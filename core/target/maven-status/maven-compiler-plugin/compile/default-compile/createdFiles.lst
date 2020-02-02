@@ -1,0 +1,3 @@
+com\core\model\AbstractEntity.class
+com\core\model\Course.class
+com\core\repository\CourseRepository.class
